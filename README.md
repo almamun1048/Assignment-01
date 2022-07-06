@@ -10,7 +10,7 @@
     <li>Footer section</li>
 </ul>
 
-# Remember it's no responsive
+# Remember it's not responsive
 # Open With google chrome and on desktop mode
 
 [Live Website](https://almamun1048.github.io/Assignment-01/index.html)
