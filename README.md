@@ -13,5 +13,4 @@
 # Remember it's no responsive
 # Open With google chrome and on desktop mode
 
-[Donation with Kids Care](https://almamun1048.github.io/Assignment-01/index.html)
 [Live Website](https://almamun1048.github.io/Assignment-01/index.html)
